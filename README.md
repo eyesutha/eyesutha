@@ -11,7 +11,7 @@ Student
 I'm currently studying Full-Stack at We-stride and looking for an internship.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [suthasinee.tavav@gmail.com](mailto:suthasinee.tavav@gmail.com)
+* ✉️  You can contact me at [suthasinee.tanav@gmail.com](mailto:suthasinee.tanav@gmail.com)
 
 ### Skills
 
