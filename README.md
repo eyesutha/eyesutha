@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgzczZiY2s2Mm94YTBzcm5ibzNqdDBjOXJka3c5a3RiYnFpNWl0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150"/>
 </div>
 
-Hi 👋 My name is suthasinee tanaveerakul
+Hi 👋 My name is Suthasinee Tanaveerakul
 ========================================
 
 Student
